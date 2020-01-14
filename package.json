@@ -1,0 +1,16 @@
+{
+  "name": "mailgun-launchdarkly-experiment",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "launchdarkly-node-server-sdk": "*",
+    "mailgun-js": "^0.22.0",
+    "pug": "*",
+    "request-promise": "*"
+  }
+}

@@ -1,0 +1,4 @@
+[{
+	"from": "Account Manager <simon@siherron.co.uk>",
+	"subject": "Hello %recipient.first%"
+}]
